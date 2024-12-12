@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TrabalhoFinal-Airlines/1.0.0": {
+        "runtime": {
+          "TrabalhoFinal-Airlines.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrabalhoFinal-Airlines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

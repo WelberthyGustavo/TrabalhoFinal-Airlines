@@ -1,0 +1,15 @@
+/workspaces/TrabalhoFinal-Airlines/bin/Debug/net8.0/TrabalhoFinal-Airlines
+/workspaces/TrabalhoFinal-Airlines/bin/Debug/net8.0/TrabalhoFinal-Airlines.deps.json
+/workspaces/TrabalhoFinal-Airlines/bin/Debug/net8.0/TrabalhoFinal-Airlines.runtimeconfig.json
+/workspaces/TrabalhoFinal-Airlines/bin/Debug/net8.0/TrabalhoFinal-Airlines.dll
+/workspaces/TrabalhoFinal-Airlines/bin/Debug/net8.0/TrabalhoFinal-Airlines.pdb
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/TrabalhoFinal-Airlines.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/TrabalhoFinal-Airlines.AssemblyInfoInputs.cache
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/TrabalhoFinal-Airlines.AssemblyInfo.cs
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/TrabalhoFinal-Airlines.csproj.CoreCompileInputs.cache
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/TrabalhoFinal-Airlines.sourcelink.json
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/TrabalhoFinal-Airlines.dll
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/refint/TrabalhoFinal-Airlines.dll
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/TrabalhoFinal-Airlines.pdb
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/TrabalhoFinal-Airlines.genruntimeconfig.cache
+/workspaces/TrabalhoFinal-Airlines/obj/Debug/net8.0/ref/TrabalhoFinal-Airlines.dll
