@@ -1,5 +1,6 @@
-V001|New York|50
-V002|Rio de Janeiro|50
-V003|Belo Horizonte|50
-V004|Tokio|50
-V005|Paris|50
+1001,São Paulo,50
+1002,Rio de Janeiro,40
+1003,Belo Horizonte,30
+1004,Curitiba,25
+1005,Porto Alegre,20
+
