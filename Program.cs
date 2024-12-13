@@ -4,7 +4,8 @@ using System.IO;
 //Welberthy Gustavo de Freitas Morais - ADS
 
 class GerenciadorReservas{
-    //Dados dos voos
+
+    //Arrays destinados a dados dos voos
     static string[] codigosVoos = new string[5];
     static string[] destinosVoos = new string[5];
     static int[] assentosDisponiveis = new int[5];
