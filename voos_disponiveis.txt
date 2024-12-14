@@ -1,6 +1,6 @@
-1001,São Paulo,50
-1002,Rio de Janeiro,40
+1001,Tokyo,50
+1002,Paris,40
 1003,Belo Horizonte,30
-1004,Curitiba,25
-1005,Porto Alegre,20
+1004,Roma,25
+1005,London,20
 

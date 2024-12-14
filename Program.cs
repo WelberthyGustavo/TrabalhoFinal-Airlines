@@ -3,6 +3,15 @@ using System.IO;
 
 //Welberthy Gustavo de Freitas Morais - ADS
 
+//Crie um arquivo voos_disponiveis.txt
+/*
+1001,Tokyo,50
+1002,Paris,40
+1003,Belo Horizonte,30
+1004,Roma,25
+1005,London,20
+*/
+
 class GerenciadorReservas{
 
     //Arrays destinados a dados dos voos
@@ -63,7 +72,7 @@ class GerenciadorReservas{
 
     public static void ImportarDados(){
 
-        //Digite o arquivo de dados .txt aqui voos_disponiveis.txt
+        //Digite o arquivo de dados .txt aqui, exemplo: voos_disponiveis.txt
         Console.Write("Digite o nome do arquivo para importar: ");
         string arquivo = Console.ReadLine(); 
         
